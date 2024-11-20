@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://dev-abhik.netlify.app",
+    url: "https://devabhishek.vercel.app",
     title: "Abhishek Vaghasiya - Web Developer",
     description:
       "Abhishek Vaghasiya is a Web Developer based in India. He specializes in building web Design & Development using modern technologies.",
